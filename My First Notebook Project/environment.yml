@@ -2,5 +2,5 @@ name: app_environment
 channels:
   - snowflake
 dependencies:
-  - matplotlib=3.7.2
+  - matplotlib=*
   - scipy=1.13.1
